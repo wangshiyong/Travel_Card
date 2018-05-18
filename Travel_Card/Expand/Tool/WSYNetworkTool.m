@@ -119,13 +119,14 @@ static AFHTTPSessionManager *managerr;
         hud.customView = [[UIImageView alloc] initWithImage:image];
         // Looks a bit nicer if we make it square.
         hud.square = YES;
+        hud.detailsLabelFont = [UIFont systemFontOfSize:18];
         // Optional label text.
         if (failure) {
             if (error.code == -1009) {
-                hud.labelText = @"网络未连接";
+                hud.detailsLabelText = WSY(@"The network is not connected");
             }else{
                 NSLog(@"%ld===",(long)error.code);
-                hud.labelText = @"网络异常";
+                hud.detailsLabelText = WSY(@"Network anomaly");
             }
             [hud hide:YES afterDelay:2.f];
             failure(error);
@@ -156,12 +157,13 @@ static AFHTTPSessionManager *managerr;
         hud.customView = [[UIImageView alloc] initWithImage:image];
         // Looks a bit nicer if we make it square.
         hud.square = YES;
+        hud.detailsLabelFont = [UIFont systemFontOfSize:18];
         // Optional label text.
         if (failure) {
             if (error.code == -1009) {
-                hud.labelText = @"网络未连接";
+                hud.detailsLabelText = WSY(@"The network is not connected");
             }else{
-                hud.labelText = @"网络异常";
+                hud.detailsLabelText = WSY(@"Network anomaly");
             }
             [hud hide:YES afterDelay:2.f];
             failure(error);
@@ -193,12 +195,13 @@ static AFHTTPSessionManager *managerr;
         hud.customView = [[UIImageView alloc] initWithImage:image];
         // Looks a bit nicer if we make it square.
         hud.square = YES;
+        hud.detailsLabelFont = [UIFont systemFontOfSize:18];
         // Optional label text.
         if (failure) {
             if (error.code == -1009) {
-                hud.labelText = @"网络未连接";
+                hud.detailsLabelText = WSY(@"The network is not connected");
             }else{
-                hud.labelText = @"网络异常";
+                hud.detailsLabelText = WSY(@"Network anomaly");
             }
             [hud hide:YES afterDelay:2.f];
             failure(error);

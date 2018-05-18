@@ -23,6 +23,8 @@
 "Posting..." = "发布中...";
 "Dismiss..." = "解散中...";
 "Emptying..." = "清空中...";
+"The network is not connected" = "网络未连接";
+"Network anomaly" = "网络异常";
 
 //tabbar
 "Statistics" = "数据统计";

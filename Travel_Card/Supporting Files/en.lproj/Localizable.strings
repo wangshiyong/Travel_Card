@@ -23,6 +23,8 @@
 "Posting..." = "Posting...";
 "Dismiss..." = "Dismiss...";
 "Emptying..." = "Emptying...";
+"The network is not connected" = "The network is not connected";
+"Network anomaly" = "Network anomaly";
 
 //tabbar
 "Statistics" = "Statistics";

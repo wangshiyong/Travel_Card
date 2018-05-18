@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "在线1600"; ObjectID = "0Ug-aw-dxc"; */
+"0Ug-aw-dxc.text" = "在线1600";
+
+/* Class = "UIButton"; normalTitle = "行程轨迹"; ObjectID = "1fm-9x-icM"; */
+"1fm-9x-icM.normalTitle" = "行程轨迹";
+
+/* Class = "UILabel"; text = "©2017成都智慧全域信息技术有限公司"; ObjectID = "1mG-A0-gqe"; */
+"1mG-A0-gqe.text" = "©2017成都智慧全域信息技术有限公司";
+
+/* Class = "UITabBarItem"; title = "景区服务商"; ObjectID = "2Ya-cL-Cov"; */
+"2Ya-cL-Cov.title" = "景区服务商";
+
+/* Class = "UIButton"; normalTitle = "登  录"; ObjectID = "37l-xA-YLb"; */
+"37l-xA-YLb.normalTitle" = "登  录";
+
+/* Class = "UITabBarItem"; title = "数据统计"; ObjectID = "3hv-JX-MdL"; */
+"3hv-JX-MdL.title" = "数据统计";
+
+/* Class = "UILabel"; text = "王世勇：13530153612"; ObjectID = "469-Ao-zfU"; */
+"469-Ao-zfU.text" = "王世勇：13530153612";
+
+/* Class = "UITabBarItem"; title = "行程列表"; ObjectID = "8sa-1f-Wvl"; */
+"8sa-1f-Wvl.title" = "行程列表";
+
+/* Class = "UILabel"; text = "8888888888次"; ObjectID = "AAA-Nx-YeO"; */
+"AAA-Nx-YeO.text" = "8888888888次";
+
+/* Class = "UILabel"; text = "密码：******"; ObjectID = "AYK-wo-ClW"; */
+"AYK-wo-ClW.text" = "密码：******";
+
+/* Class = "UINavigationItem"; title = "设置"; ObjectID = "Amh-PM-JgT"; */
+"Amh-PM-JgT.title" = "设置";
+
+/* Class = "UILabel"; text = "2017-10-09 16:27:5999"; ObjectID = "FGP-3w-oTv"; */
+"FGP-3w-oTv.text" = "2017-10-09 16:27:5999";
+
+/* Class = "UITabBarItem"; title = "数据统计"; ObjectID = "Ffi-H6-30K"; */
+"Ffi-H6-30K.title" = "数据统计";
+
+/* Class = "UILabel"; text = "总2000"; ObjectID = "FxJ-99-EMh"; */
+"FxJ-99-EMh.text" = "总2000";
+
+/* Class = "UILabel"; text = "集合"; ObjectID = "G8e-6F-bDl"; */
+"G8e-6F-bDl.text" = "集合";
+
+/* Class = "UITabBarItem"; title = "设置"; ObjectID = "HBh-Qn-zoF"; */
+"HBh-Qn-zoF.title" = "设置";
+
+/* Class = "UITabBarItem"; title = "游客管理"; ObjectID = "L0c-hg-4fy"; */
+"L0c-hg-4fy.title" = "游客管理";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "LsO-9x-AZn"; */
+"LsO-9x-AZn.title" = "首页";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "NRG-DN-ErA"; */
+"NRG-DN-ErA.placeholder" = "请输入账号";
+
+/* Class = "UILabel"; text = "深圳旅行社"; ObjectID = "PLc-wI-Hi9"; */
+"PLc-wI-Hi9.text" = "深圳旅行社";
+
+/* Class = "UILabel"; text = "王世勇：13530153612"; ObjectID = "Pdv-7s-eN6"; */
+"Pdv-7s-eN6.text" = "王世勇：13530153612";
+
+/* Class = "UILabel"; text = "在线1600"; ObjectID = "Qsf-55-P0k"; */
+"Qsf-55-P0k.text" = "在线1600";
+
+/* Class = "UILabel"; text = "账号：888888888888"; ObjectID = "RmK-Vq-t7j"; */
+"RmK-Vq-t7j.text" = "账号：888888888888";
+
+/* Class = "UIButton"; normalTitle = "数据统计"; ObjectID = "TLS-la-KWw"; */
+"TLS-la-KWw.normalTitle" = "数据统计";
+
+/* Class = "UILabel"; text = "深圳市龙华新区明治大道东明大厦831"; ObjectID = "WMS-xO-Lce"; */
+"WMS-xO-Lce.text" = "深圳市龙华新区明治大道东明大厦831";
+
+/* Class = "UITabBarItem"; title = "旅游团"; ObjectID = "Wdf-C6-KhJ"; */
+"Wdf-C6-KhJ.title" = "旅游团";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XDF-0f-Cyf"; */
+"XDF-0f-Cyf.text" = "Label";
+
+/* Class = "UILabel"; text = "密码：123456"; ObjectID = "Z03-ed-vTq"; */
+"Z03-ed-vTq.text" = "密码：123456";
+
+/* Class = "UINavigationItem"; title = "行程列表"; ObjectID = "ZtK-oe-Chy"; */
+"ZtK-oe-Chy.title" = "行程列表";
+
+/* Class = "UINavigationItem"; title = "景区服务商"; ObjectID = "ap7-MY-NkH"; */
+"ap7-MY-NkH.title" = "景区服务商";
+
+/* Class = "UILabel"; text = "账号：888888888888"; ObjectID = "fJj-Pb-KZG"; */
+"fJj-Pb-KZG.text" = "账号：888888888888";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "g5L-ON-FYV"; */
+"g5L-ON-FYV.placeholder" = "请输入密码";
+
+/* Class = "UITableViewController"; title = "设备使用数"; ObjectID = "hD5-ba-qnA"; */
+"hD5-ba-qnA.title" = "设备使用数";
+
+/* Class = "UINavigationItem"; title = "游客管理"; ObjectID = "hcf-vz-t03"; */
+"hcf-vz-t03.title" = "游客管理";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "ifi-uF-JFx"; */
+"ifi-uF-JFx.title" = "Item 2";
+
+/* Class = "UIButton"; normalTitle = "888888888"; ObjectID = "kET-Kl-5zK"; */
+"kET-Kl-5zK.normalTitle" = "888888888";
+
+/* Class = "UILabel"; text = "2017-10-09 16:27:59"; ObjectID = "kVv-do-Z6n"; */
+"kVv-do-Z6n.text" = "2017-10-09 16:27:59";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l2H-dP-ta6"; */
+"l2H-dP-ta6.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "首页"; ObjectID = "lYA-T7-z5W"; */
+"lYA-T7-z5W.title" = "首页";
+
+/* Class = "UILabel"; text = "离线400"; ObjectID = "lmk-y5-CFK"; */
+"lmk-y5-CFK.text" = "离线400";
+
+/* Class = "UINavigationItem"; title = "科佳讯旅行社"; ObjectID = "me2-bh-p7f"; */
+"me2-bh-p7f.title" = "科佳讯旅行社";
+
+/* Class = "UILabel"; text = "深圳旅行团"; ObjectID = "mgS-f8-GVr"; */
+"mgS-f8-GVr.text" = "深圳旅行团";
+
+/* Class = "UINavigationItem"; title = "旅游团"; ObjectID = "nkG-VM-DF8"; */
+"nkG-VM-DF8.title" = "旅游团";
+
+/* Class = "UILabel"; text = "离线400"; ObjectID = "qxf-BD-wEI"; */
+"qxf-BD-wEI.text" = "离线400";
+
+/* Class = "UITableViewController"; title = "在线设备数"; ObjectID = "sgS-X6-tPO"; */
+"sgS-X6-tPO.title" = "在线设备数";
+
+/* Class = "UILabel"; text = "记住密码"; ObjectID = "vQB-Ve-wcu"; */
+"vQB-Ve-wcu.text" = "记住密码";
+
+/* Class = "UILabel"; text = "总2000"; ObjectID = "w18-ln-twd"; */
+"w18-ln-twd.text" = "总2000";
+
+/* Class = "UIBarButtonItem"; title = "清空"; ObjectID = "wSb-gx-IVg"; */
+"wSb-gx-IVg.title" = "清空";
+
+/* Class = "UIBarButtonItem"; title = "解散"; ObjectID = "yZn-Tq-bki"; */
+"yZn-Tq-bki.title" = "解散";

@@ -1,0 +1,245 @@
+/* 
+  Localizable.strings
+  Travel_Card
+
+  Created by wangshiyong on 2018/3/2.
+  Copyright © 2018年 王世勇. All rights reserved.
+*/
+
+//HUD
+"Loading..." = "Loading...";
+"Success" = "Success";
+"User name or password error" = "User name or password error";
+"Loading... " = "Loading... ";
+"Initializing..." = "Initializing...";
+"Cleaning..." = "Cleaning...";
+"Updating..." = "Updating...";
+"Setting..." = "Setting...";
+"Update succeeded" = "Update succeeded";
+"Update failure" = "Update failure";
+" Success" = " Success";
+" Fail" = " Fail";
+"Deleting..." = "Deleting...";
+"Posting..." = "Posting...";
+"Dismiss..." = "Dismiss...";
+"Emptying..." = "Emptying...";
+
+//tabbar
+"Statistics" = "Statistics";
+"Scenic spot service provider" = "Scenic spot service provider";
+"Service provider" = "Service provider";
+"Positioning" = "Positioning";
+"Positioning " = "Positioning ";
+"Management " = "Management ";
+"Itinerary " = "Itinerary ";
+
+//主页
+"Tour Guide" = "Tour Guide";
+"Management" = "Management";
+"Log in" = "Log in";
+"Account " = "Account ";
+"Password " = "Password ";
+"Save " = "Save ";
+"©2017 Smart Guide Information Technology Co., Lt." = "©2017 Smart Guide Information Technology Co., Lt.";
+"Use now" = "Use now";
+"Find a new version of " = "Find a new version of ";
+"Do you want to update?" = "Do you want to update?";
+"Update Notification" = "Update Notification";
+"M_BG1" = "M_BG1_en";
+"M_BG2" = "M_BG2_en";
+"M_BG3" = "M_BG3_en";
+"M_BG4" = "M_BG4_en";
+
+//导游设置界面
+"Language" = "Language";
+" Language " = " Language ";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"About" = "About";
+"Log Out" = "Log Out";
+"Settings" = "Settings";
+"Emergency Contacts" = "Emergency Contacts";
+"Work Mode" = "Work Mode";
+"Change Password" = "Change Password";
+"Remote Shutdown" = "Remote Shutdown";
+"Edit" = "Edit";
+"Updating" = "Updating";
+"Name" = "Name";
+"Phone Number" = "Phone Number";
+"Normal Mode" = "Normal Mode";
+"Emergency Mode" = "Emergency Mode";
+"Self-defined Mode" = "Self-defined Mode";
+"Save" = "Save";
+"Smart Guide" = "Smart Guide";
+"Welcome Page" = "Welcome Page";
+"Safety tips" = "Safety tips";
+"Password update succeeded, please log in again!" = "Password update succeeded, please log in again!";
+"Update failure" = "Update failure";
+"Input current password" = "Input current password";
+"Input new password" = "Input new password";
+"Confirm new password" = "Confirm new password";
+"Password length should be at least 6 bits" = "Password length should be at least 6 bits";
+"Maximum length of the password is 10 bits" = "Maximum length of the password is 10 bits";
+"Inconsistencies in password" = "Inconsistencies in password";
+"Wrong password" = "Wrong password";
+"New password cannot be the same as current password" = "New password cannot be the same as current password";
+"Fail to get the mode" = "Fail to get the mode";
+"Send location information every 30 min" = "Send location information every 30 min";
+"Send location information every 10 sec" = "Send location information every 10 sec";
+"Minute (the shorter, the more power consumption)" = "Minute (the shorter, the more power consumption)";
+"Success " = "Success";
+"Normal mode on" = "Normal mode on";
+"Fail" = "Fail";
+"Emergency mode on" = "Emergency mode on";
+"Mode is on" = "Mode is on";
+"Please set the self-defined time" = "Please set the self-defined time";
+"Fail to get the self-defined mode" = "Fail to get the self-defined mode";
+"Self-defined mode off" = "Self-defined mode off";
+"The minimum self-defined time is 3 min" = "The minimum self-defined time is 3 min";
+"Self-defined mode is successful" = "Self-defined mode is successful";
+"Please input right TEL" = "Please input right TEL";
+"No equipment in tour group, add in tourists management" = "No equipment in tour group, add in tourists management";
+"Clean" = "Clean";
+"Sure to delete all itinerary information" = "Sure to delete all itinerary information";
+"Slide to delete" = "Slide to delete";
+"No online time" = "No online time";
+"Dismiss" = "Dismiss";
+"Sure to remote shutdown all devices?" = "Sure to remote shutdown all devices?";
+"Complete" = "Complete";
+"Cache cleaning" = "Cache cleaning";
+"No location statistics, factory address default." = "No location statistics, factory address default.";
+"No online time" = "No online time";
+"No location time" = "No location time";
+"Electronic Fence" = "Electronic Fence";
+"Your device power is less than 20%. Please charge it in time." = "Your device power is less than 20%. Please charge it in time.";
+"Has been out of the electronic fence" = "Has been out of the electronic fence";
+"Has entered the electronic fence" = "Has entered the electronic fence";
+
+//信息中心
+"Empty" = "Empty";
+"No itinerary information" = "No itinerary information";
+"Delete" = "Delete";
+"Delete " = "Delete ";
+"Sure to delete all itinerary information?" = "Sure to delete all itinerary information?";
+" Success " = " Success ";
+"Fail " = "Fail ";
+"Post Itinerary" = "Post Itinerary";
+"Reminder: input no more than 50 bits" = "Reminder: input no more than 50 bits";
+"Success  " = "Success  ";
+"No location, post fail" = "No location, post fail";
+" Fail " = " Fail ";
+"Please input itinerary content" = "Please input itinerary content";
+"Post" = "Post";
+"Itinerary" = "Itinerary";
+
+//游客管理
+"Travel path" = "Travel path";
+"Today" = "Today";
+" Success  " = " Success  ";
+"Fail  " = "Fail  ";
+"Dismiss the group" = "Dismiss the group";
+"Sure to dismiss the group?" = "Sure to dismiss the group?";
+"The camera is unauthorized" = "The camera is unauthorized";
+"Go set in settings" = "Go set in settings";
+"Setting" = "Setting";
+"Equipment Number" = "Equipment Number";
+"Delete member" = "Delete member";
+"Delete the selected member?" = "Delete the selected member?";
+"No tourist equipment" = "No tourist equipment";
+"Personal information" = "Personal information";
+" Fail  " = " Fail  ";
+"Name" = "Name";
+"Sex" = "Sex";
+"TEL" = "TEL";
+"Historical track" = "Historical track";
+"Playback" = "Playback";
+"Accurate positioning" = "Accurate positioning";
+"Refresh time" = "Refresh time";
+"Choose auto refresh time" = "Choose auto refresh time";
+"Playback" = "Playback";
+"Location Service off" = "Location Service off";
+"Please turn on the location service in settings" = "Please turn on the location service in settings";
+"No location statistics" = "No location statistics";
+"No historical track" = "No historical track";
+"Route" = "Route";
+"Scan" = "Scan";
+"Please input equipment code" = "Please input equipment code";
+"Male" = "Male";
+"  Success  " = "  Success  ";
+"Add equipment" = "Add equipment";
+"Sure to add equipment?" = "Sure to add equipment?";
+"Scan automatically within the frame" = "Scan automatically within the frame";
+"Turn on" = "Turn on";
+"Input" = "Input";
+"has been bound" = "has been bound";
+"din't join the travel agency" = "din't join the travel agency";
+"It has exceeded the upper limit" = "It has exceeded the upper limit";
+
+//全团定位
+"Online time" = "Online time";
+"Position time" = "Position time";
+"Online" = "Online";
+"Offline" = "Offline";
+"BDS Positioning" = "BDS Positioning";
+"LBS Positioning" = "LBS Positioning";
+"RFID Positioning" = "RFID Positioning";
+"Alarm information" = "Alarm information";
+"No information" = "No information";
+"Electronic fence list" = "Electronic fence list";
+"No Electronic Fence" = "No Electronic Fence";
+"Name " = "Name ";
+"Type: In" = "Type: In";
+"Type: Out" = "Type: Out";
+"Type: In/out" = "Type: In/out";
+"LBS" = "LBS";
+"No LBS points" = "No LBS points";
+
+//左侧滑栏
+"Home Page" = "Home Page";
+"Chart Theme" = "Chart Theme";
+"About & Help" = "About & Help";
+"Clean Cache" = "Clean Cache";
+"macarons" = "macarons";
+"macarons2" = "macarons2";
+"shine" = "shine";
+"blue" = "blue";
+"green" = "green";
+"red" = "red";
+"helianthus" = "helianthus";
+"sakura" = "sakura";
+"mint" = "mint";
+"The cache size is " = "The cache size is ";
+"Sure to clean up cache?" = "Sure to clean up cache?";
+"Rating" = "Rating";
+"Official Website" = "Official Website";
+"Super Administrator" = "Super Administrator";
+"Administrator" = "Administrator";
+"Determine to log out?" = "Determine to log out?";
+
+//时间
+"Choose Time" = "Choose Time";
+"Start" = "Start";
+"End" = "End";
+
+//数据统计
+"Total" = "Total";
+"Account" = "Account";
+"Password" = "Password";
+"No detailed address" = "No detailed address";
+"Total " = "Total ";
+"Online " = "Online ";
+"Offline " = "Offline ";
+"Maximum" = "Maximum";
+"Minimum" = "Minimum";
+"Average" = "Average";
+"Current Value" = "Current Value";
+"times" = "times";
+"Online equipment" = "Online equipment";
+"Used" = "Used";
+"Allocated equipment status" = "Allocated equipment status";
+"o'clock" = "o'clock";
+"Total use time" = "Total use time";
+"Tour Group" = "Tour Group";
+"No results found" = "No results found";
+"No tour group" = "No tour group";
+"No statistical data for the current time period" = "No statistical data for the current time period";

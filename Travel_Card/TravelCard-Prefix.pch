@@ -1,0 +1,96 @@
+//
+//  TravelCard-Prefix.pch
+//  Travel_Card
+//
+//  Created by wangshiyong on 2017/9/25.
+//  Copyright © 2017年 王世勇. All rights reserved.
+//
+
+#ifndef TravelCard_Prefix_pch
+#define TravelCard_Prefix_pch
+
+#import "WSYAPI.h"
+//#import "YYText.h"
+#import <MaterialControls/MaterialControls.h>
+#import "Masonry.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <SCLAlertView_Objective_C/SCLAlertView.h>
+#import <MAMapKit/MAMapKit.h>
+#import "MJRefresh.h"
+#import "WSYBaseNavigationViewController.h"
+#import "WSYUserDataTool.h"
+#import "UIScrollView+EmptyDataSet.h"
+#import "WSYNetworkTool.h"
+#import "MBProgress+HUD.h"
+#import "WSYNSDateHelper.h"
+#import "WSYLanguageTool.h"
+#import "MJExtension.h"
+
+#endif /* TravelCard_Prefix_pch */
+
+#ifdef DEBUG
+#define NSLog(...) NSLog(__VA_ARGS__)
+#define debugMethod() NSLog(@"%s", __func__)
+#else
+#define NSLog(...)
+#define debugMethod()
+#endif
+
+#define iOS11Later ([UIDevice currentDevice].systemVersion.floatValue >= 11.0f)
+
+#define IS_IPHONE_5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] \
+? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size)\
+: NO)
+
+#define IS_IPHONE_X ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1125, 2436), [[UIScreen mainScreen] currentMode].size) : NO)
+
+//设备宽高
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+//颜色
+#define kAlertViewColor  [UIColor colorWithRed:4/255.0 green:193/255.0 blue:219/255.0 alpha:1.0]
+#define kThemeRedColor  [UIColor colorWithRed:232.0/255.0 green:65.0/255.0 blue:39.0/255.0 alpha:1.0]
+#define kThemeTextColor  [UIColor colorWithRed:0/255.0 green:0/255.0 blue:0/255.0 alpha:0.7]
+#define kThemeOrangeColor  [UIColor colorWithRed:240.0/255.0 green:133.0/255.0 blue:25.0/255.0 alpha:1.0]
+//#define kRippleColor  [UIColor colorWithRed:255.0/255.0 green:165.0/255.0 blue:0/255.0 alpha:1.0]
+#define Color(r,g,b,a) [UIColor colorWithRed:(r/255.0) green:(g/255.0) blue:(b/255.0) alpha:a]
+/// RGB颜色(16进制)
+#define WSYColor_HEX(rgbValue, a) \
+[UIColor colorWithRed:((CGFloat)((rgbValue & 0xFF0000) >> 16)) / 255.0 \
+green:((CGFloat)((rgbValue & 0xFF00) >> 8)) / 255.0 \
+blue:((CGFloat)(rgbValue & 0xFF)) / 255.0 alpha:(a)]
+
+#define kTileOverlayRemoteServerTemplate    @"http://mt2.google.cn/vt/hl=en-US&x={x}&y={y}&z={z}&scale={scale}"
+#define kTileOverlayRemoteMinZ      3
+#define kTileOverlayRemoteMaxZ      20
+
+static NSString *const kGuideService = @"GuideService";
+static NSString *const kManageService = @"ManageService";
+static NSString *const kGuideTsn = @"GuideTsn";
+static NSString *const kManageTsn = @"ManageTsn";
+static NSString *const kGuideID = @"GuideID";
+static NSString *const kTravelGencyID = @"TravelGencyID";
+
+static NSString *const kThemeNumber = @"ThemeNumber";
+static NSString *const kTheme = @"Theme";
+static NSString *const kMenu = @"Menu";
+static NSString *const kWebNotice = @"WebNotice";
+static NSString *const kReleaseNotice = @"ReleaseNotice";
+static NSString *const kScanSuccess = @"ScanSuccess";
+static NSString *const kRefreshNumber = @"RefreshNumber";
+
+static NSString *const kGuideIsLogin = @"GuideIsLogin";
+static NSString *const kManageIsLogin = @"ManageIsLogin";
+
+static NSString *const kNotice = @"Notice";
+static NSString *const kMemberRelease = @"MemberRelease";
+static NSString *const kFirstLaunchNotice = @"FirstLaunchNotice";
+static NSString *const kFirstLaunch = @"FirstLaunch";
+
+static NSString *const kchangeLanguage = @"ChangeLanguage";
+
+static NSString *const kForeign = @"Foreign";
+static NSString * const kLanguage = @"Language";
+static NSString *const kLogoutLanguage = @"LogoutLanguage";
+static NSString * const kMaps = @"Maps";

@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Travel_Card
+
+  Created by wangshiyong on 2018/3/6.
+  Copyright © 2018年 王世勇. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "TOME SMART GUIDE";
+"NSLocationWhenInUseUsageDescription" = "You can view the real-time location on the map";
+"NSPhotoLibraryUsageDescription" = "You can scan the machine code picture";
+"NSCameraUsageDescription" = "You can scan the machine code";

@@ -1,0 +1,248 @@
+/* 
+  Localizable.strings
+  Travel_Card
+
+  Created by wangshiyong on 2018/3/2.
+  Copyright © 2018年 王世勇. All rights reserved.
+*/
+
+//HUD
+"Loading..." = "登录中...";
+"Success" = "登录成功";
+"User name or password error" = "用户名或者密码错误";
+"Loading... " = "数据加载中...";
+"Initializing..." = "初始化中...";
+"Cleaning..." = "清理中...";
+"Updating..." = "更新中...";
+"Setting..." = "设置中...";
+"Update succeeded" = "更新成功";
+"Update failure" = "更新失败";
+" Success" = "清空成功";
+" Fail" = "清空失败";
+"Deleting..." = "删除中...";
+"Posting..." = "发布中...";
+"Dismiss..." = "解散中...";
+"Emptying..." = "清空中...";
+
+//tabbar
+"Statistics" = "数据统计";
+"Scenic spot service provider" = "景区服务商";
+"Service provider" = "景区服务商";
+"Positioning" = "精确定位";
+"Positioning " = "全团定位";
+"Management " = "游客管理";
+"Itinerary " = "行程列表";
+
+//主页
+"Tour Guide" = "导游";
+"Management" = "管理";
+"Log in" = "登录";
+"Account " = "请输入账号";
+"Password " = "请输入密码";
+"Save " = "记住密码";
+"©2017 Smart Guide Information Technology Co., Lt." = "©2017成都智慧全域信息技术有限公司";
+"Use now" = "立即体验";
+"Update Notification" = "更新通知";
+"Find a new version of " = "发现新版本";
+"Do you want to update?" = "是否要更新？";
+"M_BG1" = "M_BG1_zh";
+"M_BG2" = "M_BG2_zh";
+"M_BG3" = "M_BG3_zh";
+"M_BG4" = "M_BG4_zh";
+
+//导游设置界面
+"Language" = "多语言";
+"Maps" = "多地图";
+" Language " = "设置语言";
+"OK" = "确定";
+"Cancel" = "取消";
+"About" = "关于";
+"Log Out" = "退出登录";
+"Settings" = "设置";
+"Emergency Contacts" = "紧急联系人";
+"Work Mode" = "工作模式";
+"Change Password" = "修改密码";
+"Remote Shutdown" = "设备关机";
+"Edit" = "编辑";
+"Updating" = "更新";
+"Name" = "姓名";
+"Phone Number" = "电话号码";
+"Normal Mode" = "正常模式";
+"Emergency Mode" = "紧急模式";
+"Self-defined Mode" = "自定义模式";
+"Save" = "保存";
+"Smart Guide" = "智慧全域";
+"Welcome Page" = "欢迎页";
+"Safety tips" = "安全提示";
+"Password update succeeded, please log in again!" = "密码更新成功，请重新登录！";
+"Update failure" = "更新失败";
+"Input current password" = "请输入当前密码";
+"Input new password" = "请输入新密码";
+"Confirm new password" = "请确认新密码";
+"Password length should be at least 6 bits" = "密码最少6位";
+"Maximum length of the password is 10 bits" = "密码最大长度为10位";
+"Inconsistencies in password" = "密码不一致";
+"Wrong password" = "密码有误";
+"New password cannot be the same as current password" = "新旧密码不能相同";
+"Fail to get the mode" = "模式获取失败";
+"Send location information every 30 min" = "每30分钟发送一次定位信息";
+"Send location information every 10 sec" = "每10秒钟发送一次定位信息";
+"Minute (the shorter, the more power consumption)" = "分钟(数字越小，设备耗电越大)";
+"Success " = "设置成功";
+"Normal mode on" = "正常模式已开启!";
+"Fail" = "设置失败";
+"Emergency mode on" = "紧急模式已开启!";
+"Mode is on" = "模式已开启";
+"Please set the self-defined time" = "请设置自定义时间!";
+"Fail to get the self-defined mode" = "获取自定义时间失败";
+"Self-defined mode off" = "自定义模式未开启";
+"The minimum self-defined time is 3 min" = "自定义时间不能少于3分钟";
+"Self-defined mode is successful" = "自定义模式设置成功!";
+"Please input right TEL" = "请输入正确的手机号码";
+"No equipment in tour group, add in tourists management" = "旅游团无设备，请在游客管理添加设备！";
+"Clean" = "一键清空";
+"Sure to delete all itinerary information" = "确定删除所有行程信息？";
+"Slide to delete" = "左滑删除";
+"No online time" = "暂无在线时间";
+"Dismiss" = "解散";
+"Sure to remote shutdown all devices?" = "确定远程关机所有设备?";
+"Complete" = "清理完成";
+"Cache cleaning" = "缓存清理";
+"No location statistics, factory address default." = "设备无定位数据，默认为出厂地址";
+"No online time" = "无在线时间";
+"No location time" = "无定位时间";
+"Electronic Fence" = "电子围栏";
+"Your device power is less than 20%. Please charge it in time." = "您的设备电量低于20%，请及时充电";
+"Has been out of the electronic fence" = "已出电子围栏";
+"Has entered the electronic fence" = "已入电子围栏";
+
+//信息中心
+"Empty" = "清空";
+"No itinerary information" = "没有行程信息";
+"Delete" = "行程删除";
+"Delete " = "删除";
+"Sure to delete all itinerary information?" = "确定删除当前行程信息？";
+" Success " = "删除成功";
+"Fail " = "删除失败";
+"Post Itinerary" = "行程发布";
+"Reminder: input no more than 50 bits" = "提示:最多输入50位";
+"Success  " = "发布成功";
+"No location, post fail" = "设备无定位,发布失败";
+" Fail " = "发布失败";
+"Please input itinerary content" = "请输入行程内容";
+"Post" = "发布";
+"Itinerary" = "团行程";
+
+//游客管理
+"Travel path" = "行程轨迹";
+"Today" = "今";
+" Success  " = "解散成功";
+"Fail  " = "解散失败";
+"Dismiss the group" = "解散团";
+"Sure to dismiss the group?" = "确定解散当前团？";
+"The camera is unauthorized" = "未获得授权使用摄像头";
+"Go set in settings" = "请在系统设置中开启,否则无法使用摄像头";
+"Setting" = "去设置";
+"Equipment Number" = "设备号";
+"Delete member" = "成员删除";
+"Delete the selected member?" = "确定删除当前成员？";
+"No tourist equipment" = "没有游客设备";
+"Personal information" = "个人信息";
+" Fail  " = "获取失败";
+"Name" = "姓名";
+"Sex" = "性别";
+"TEL" = "手机号码";
+"Historical track" = "历史轨迹";
+"Playback" = "回放";
+"Accurate positioning" = "精确定位";
+"Refresh time" = "刷新时间";
+"Choose auto refresh time" = "请选择自动刷新时间";
+"Playback" = "回放";
+"Location Service off" = "定位服务未开启";
+"Please turn on the location service in settings" = "请在系统设置中开启服务,否则无法使用定位服务";
+"No location statistics" = "无定位数据";
+"No historical track" = "无当天历史轨迹";
+"Route" = "行程轨迹";
+"Scan" = "扫一扫";
+"Please input equipment code" = "请输入正确的机器码";
+"Male" = "男";
+"  Success  " = "添加成功";
+"Add equipment" = "设备添加";
+"Sure to add equipment?" = "确定添加设备?";
+"Scan automatically within the frame" = "将条码放入框内，即可自动扫描";
+"Turn on" = "打开手电筒";
+"Input" = "手动输入设备号";
+"has been bound" = "该设备已经绑定";
+"din't join the travel agency" = "设备未加入该旅行社";
+"It has exceeded the upper limit" = "已超出上限人数";
+
+//全团定位
+"Online time" = "在线时间";
+"Position time" = "定位时间";
+"Online" = "在线";
+"Offline" = "离线";
+"BDS Positioning" = "北斗定位";
+"LBS Positioning" = "基站定位";
+"RFID Positioning" = "RFID定位";
+"Alarm information" = "报警信息";
+"No information" = "没有报警信息";
+"Electronic fence list" = "围栏列表";
+"No Electronic Fence" = "没有电子围栏";
+"Name " = "围栏名称";
+"Type: In" = "围栏类型: 进电子围栏";
+"Type: Out" = "围栏类型: 出电子围栏";
+"Type: In/out" = "围栏类型: 进出电子围栏";
+"LBS" = "基站";
+"No LBS points" = "当天无基站点";
+
+//左侧滑栏
+"Home Page" = "首页";
+"Chart Theme" = "图表主题";
+"About & Help" = "关于与帮助";
+"Clean Cache" = "清理缓存";
+"macarons" = "马卡龙";
+"macarons2" = "马卡龙2";
+"shine" = "光亮色";
+"blue" = "蓝色";
+"green" = "绿色";
+"red" = "红色";
+"helianthus" = "向日葵色";
+"sakura" = "樱花色";
+"mint" = "樱花色";
+"The cache size is " = "缓存大小为";
+"Sure to clean up cache?" = "确定清理缓存？";
+"Rating" = "给我们评分";
+"Official Website" = "官网";
+"Super Administrator" = "超级管理员";
+"Administrator" = "管理员";
+"Determine to log out?" = "确定退出登录？";
+
+//时间
+"Start" = "开始时间";
+"End" = "结束时间";
+"Choose Time" = "选择时间";
+
+
+//数据统计
+"Total" = "总";
+"Account" = "账号";
+"Password" = "密码";
+"No detailed address" = "无详细地址";
+"Total " = "总设备";
+"Online " = "在线设备";
+"Offline " = "离线设备";
+"Maximum" = "最大值";
+"Minimum" = "最小值";
+"Average" = "平均值";
+"Current Value" = "当前值";
+"times" = "次";
+"Online equipment" = "在线设备数";
+"Used" = "设备租赁数";
+"Allocated equipment status" = "已分配设备的变化情况";
+"o'clock" = "点";
+"Total use time" = "总使用次数";
+"Tour Group" = "旅游团";
+"No results found" = "未找到结果";
+"No tour group" = "没有旅游团";
+"No statistical data for the current time period" = "无当天时间段数据统计";
+

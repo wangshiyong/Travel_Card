@@ -224,7 +224,7 @@ static NSInteger seq = 0;
 }
 
 /**
- 切换语言
+ 切换地图
  */
 -(void)changeMaps{
     SCLAlertView *alert = [[SCLAlertView alloc] initWithNewWindow];

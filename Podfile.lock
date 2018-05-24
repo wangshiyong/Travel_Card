@@ -76,6 +76,33 @@ DEPENDENCIES:
   - SMPageControl
   - YYText
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AMap3DMap-NO-IDFA
+    - AMapFoundation-NO-IDFA
+    - Aspects
+    - AXIndicatorView
+    - AXNavigationBackItemInjection
+    - AXPracticalHUD
+    - AXWebViewController
+    - EAIntroView
+    - EARestrictedScrollView
+    - FSCalendar
+    - iOS-Echarts
+    - JCore
+    - JPush
+    - Masonry
+    - MaterialControls
+    - MGSwipeTableCell
+    - MJExtension
+    - NJKWebViewProgress
+    - pop
+    - SAMKeychain
+    - SCLAlertView-Objective-C
+    - SMPageControl
+    - YYText
+
 EXTERNAL SOURCES:
   ReactiveCocoa:
     :git: https://github.com/zhao0/ReactiveCocoa.git
@@ -115,4 +142,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: d140c91690a9ad8cfcaeb78d81b44bcf8203f494
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.2
